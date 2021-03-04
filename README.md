@@ -4,7 +4,7 @@ Então com essa informação, é preciso desenvolver um aplicativo que:
 
 - Possa ser informado as receitas na data que elas ocorreram.
 - Possa ser informado as despesas na data que elas ocorreram.
-- Mostar uma listagem ordenada cronologicamente das receitas e despesas.
+- Exibir uma listagem ordenada cronologicamente das receitas e despesas.
 
 Obs.: Lembrando que as receitas somam no saldo do cliente e as despesas diminuem o saldo do cliente.
 
