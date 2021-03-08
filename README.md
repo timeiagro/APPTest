@@ -1,24 +1,50 @@
-Um cliente deseja controlar de forma, mas precisa o seu orçamento pessoal, para isso ele solicita que seja criado um aplicativo onde ele possa informar suas receitas e suas despesas. 
+# testeapp
+Controle de Finanças
 
-Então com essa informação, é preciso desenvolver um aplicativo que:
+## Plugins
 
-- Possa ser informado as receitas na data que elas ocorreram.
-- Possa ser informado as despesas na data que elas ocorreram.
-- Exibir uma listagem ordenada cronologicamente das receitas e despesas.
+### React Navigation
 
-Obs.: Lembrando que as receitas somam no saldo do cliente e as despesas diminuem o saldo do cliente.
+plugin para lidar com navegação [link](https://reactnavigation.org/)
 
-Será avaliado no desafio:
+### React Native Masked Text
 
-- Organização de código;
-- Manutenibilidade;
-- Boas práticas e padrões adotas pelas comunidades JavaScript;
-- Boas práticas e padrões adotas no desenvolvimento de Apps;
+plugin para lidar com máscara nos inputs [link](https://github.com/benhurott/react-native-masked-text)
 
-Obs: Usabilidade e layout não serão cobrados, mas serão levados em consideração.
+## Como Usar
 
-Para nos enviar o código, crie um fork desse repositório e quando finalizar, mande um pull-request para nós.
+### Default
 
-O projeto deve ser desenvolvido em React Native.
+#### Yarn
 
-Gostaríamos que fosse evitado o uso excessivo de frameworks, e que tivesse uma explicação do que é necessário para funcionar o projeto.
+```bash
+  yarn install
+```
+#### Npm
+
+```bash
+  npm i
+```
+
+
+### Ios
+
+ir para para a pasta /ios e executar:
+
+```bash
+  pod install
+```
+
+Em seguida voltar para pasta /root e executar:
+
+```bash
+  react-native run-ios --simulator="iPhone 11" (Simulador de sua preferência)
+```
+
+### Android
+
+Executar:
+
+```bash
+  react-native run-android
+```
