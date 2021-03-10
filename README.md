@@ -1,4 +1,4 @@
-Um cliente deseja controlar de forma, mas precisa o seu orçamento pessoal, para isso ele solicita que seja criado um aplicativo onde ele possa informar suas receitas e suas despesas. 
+Um cliente deseja controlar de forma mais precisa o seu orçamento pessoal, para isso ele solicita que seja criado um aplicativo onde ele possa informar suas receitas e suas despesas. 
 
 Então com essa informação, é preciso desenvolver um aplicativo que:
 
@@ -12,8 +12,8 @@ Será avaliado no desafio:
 
 - Organização de código;
 - Manutenibilidade;
-- Boas práticas e padrões adotas pelas comunidades JavaScript;
-- Boas práticas e padrões adotas no desenvolvimento de Apps;
+- Boas práticas e padrões adotadas pelas comunidades JavaScript;
+- Boas práticas e padrões adotadas no desenvolvimento de Apps;
 
 Obs: Usabilidade e layout não serão cobrados, mas serão levados em consideração.
 
